@@ -21,8 +21,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/expenses-chart-component-9s-wd1qUAC
+- Live Site URL: https://guido2288.github.io/Expenses-chart-component.github.io/
 
 ## My process
 
